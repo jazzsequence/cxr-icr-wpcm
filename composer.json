@@ -73,7 +73,8 @@
         "wpackagist-plugin/pantheon-advanced-page-cache": "*",
         "wpackagist-plugin/wp-native-php-sessions": "*",
         "cweagans/composer-patches": "^1.7",
-        "wpackagist-plugin/safe-redirect-manager": "^2.2"
+        "wpackagist-plugin/safe-redirect-manager": "^2.2",
+        "wpackagist-plugin/all-in-one-seo-pack": "^4.7"
     },
     "require-dev": {
         "pantheon-systems/pantheon-wp-coding-standards": "*",
